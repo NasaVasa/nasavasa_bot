@@ -1,0 +1,12 @@
+C:\Users\grach\AppData\Local\Temp\rider-publish11017106870616094556\c-sharp.nasavasa.ru.exe
+C:\Users\grach\AppData\Local\Temp\rider-publish11017106870616094556\appsettings.Development.json
+C:\Users\grach\AppData\Local\Temp\rider-publish11017106870616094556\appsettings.json
+C:\Users\grach\AppData\Local\Temp\rider-publish11017106870616094556\global.json
+C:\Users\grach\AppData\Local\Temp\rider-publish11017106870616094556\c-sharp.nasavasa.ru.dll
+C:\Users\grach\AppData\Local\Temp\rider-publish11017106870616094556\c-sharp.nasavasa.ru.deps.json
+C:\Users\grach\AppData\Local\Temp\rider-publish11017106870616094556\c-sharp.nasavasa.ru.runtimeconfig.json
+C:\Users\grach\AppData\Local\Temp\rider-publish11017106870616094556\c-sharp.nasavasa.ru.pdb
+C:\Users\grach\AppData\Local\Temp\rider-publish11017106870616094556\Microsoft.OpenApi.dll
+C:\Users\grach\AppData\Local\Temp\rider-publish11017106870616094556\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\grach\AppData\Local\Temp\rider-publish11017106870616094556\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\grach\AppData\Local\Temp\rider-publish11017106870616094556\Swashbuckle.AspNetCore.SwaggerUI.dll

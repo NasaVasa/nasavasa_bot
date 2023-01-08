@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="194.87.248.52" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="194.87.248.52">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/var/www/c-sharp.nasavasa.ru" local="$PROJECT_DIR$" web="http://c-sharp.nasavasa.ru/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
